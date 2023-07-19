@@ -19,8 +19,6 @@ The goals of this project are to:
 
 ## Repository Structure
 
-    ├── data                                 # Data files used in the project 
-    │   └── your-data.csv
     ├── notebooks                            # Jupyter notebooks for data exploration and model development
     │   ├── 01_data_exploration.ipynb
     │   ├── 02_data_preprocessing.ipynb
@@ -33,6 +31,19 @@ The goals of this project are to:
     │   └── customer_segmentation_report.pdf
     ├── LICENSE
     └── README.md
+    
+## Dataset
+
+The dataset for this project is available on Google Drive. 
+
+To access the dataset, follow these steps:
+
+1. Click on the following link to access the dataset on Google Drive: [Dataset Link](https://drive.google.com/drive/folders/your-folder-id)
+2. Request access to the dataset if required.
+
+Please note that the dataset is hosted externally on Google Drive due to its large size. We chose this approach to ensure efficient storage and accessibility.
+
+If you encounter any issues with accessing or downloading the dataset, feel free to open an issue or reach out to the project contributors for assistance.
 
 ## Getting Started
 
