@@ -29,6 +29,8 @@ The goals of this project are to:
     ├── src                                  # Source code for utility functions and data preprocessing
     │   ├── preprocessing.py
     │   └── visualization.py
+    ├── reports                              # Folder for project reports
+│   └── customer_segmentation_report.pdf
     ├── LICENSE
     └── README.md
 
